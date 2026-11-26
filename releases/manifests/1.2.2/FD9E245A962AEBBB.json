@@ -1,0 +1,97 @@
+{
+"signed": {
+  "format": "federation-update-v1",
+  "version": "1.2.2",
+  "released": "2026-11-26T21:43:39+00:00",
+  "expires": "2026-12-27T00:00:00+00:00",
+  "channel": "stable",
+  "files": {
+    "AgentFederation-mac.dmg": {
+      "size": 56748934,
+      "sha256": "935af38cd24d42aeb6663547898b634b742112714d8f7849b895eebc5175a721"
+    },
+    "AgentFederation-win-setup.exe": {
+      "size": 40485743,
+      "sha256": "6a13ecc536a0f959ba1a96506f57df80b33b854e59438bd503f009c08b485370"
+    },
+    "federation-linux-arm64.zip": {
+      "size": 36666867,
+      "sha256": "ffa5569c5632edfb52c6c199e4fae66d5a552bcaff101a69bb34467c1c8f7aa3"
+    },
+    "federation-linux-x64.zip": {
+      "size": 38085663,
+      "sha256": "9d31085b3f77d332a0cef36344cacd3d336f86cfd4369921826ba9ff43cd2569"
+    },
+    "federation-mcp-linux-arm64.zip": {
+      "size": 37225168,
+      "sha256": "85d299918fd8fafb0b6dd8913cac222a6688aba9aea7ce7ed3bba36c7febdb7a"
+    },
+    "federation-mcp-linux-x64.zip": {
+      "size": 38642113,
+      "sha256": "bcea70ec8eb803f54299e20feeb384b7646dcf79c0849572d699ea86f5b16cdf"
+    },
+    "federation-mcp-osx-arm64.zip": {
+      "size": 36809522,
+      "sha256": "3668f8ea1c0f56c939edf15e421c40508be473ccf86ea58afd4367765a277108"
+    },
+    "federation-mcp-osx-x64.zip": {
+      "size": 38708051,
+      "sha256": "b3f8bc0ad04420d69369c8f521cb2112863ded60f07f778a72992b3f580d7129"
+    },
+    "federation-mcp-win-arm64.zip": {
+      "size": 37763012,
+      "sha256": "408d14faf75b074e7bacced513243c60aeb07e9495acf3703996d99bddacec49"
+    },
+    "federation-mcp-win-x64.zip": {
+      "size": 38835222,
+      "sha256": "19a750b93abf6132946c6cbcb11351bcbfd5458cb5a20501f1939b546c13ee96"
+    },
+    "federation-osx-arm64.zip": {
+      "size": 36250959,
+      "sha256": "f9d7dbcd98d1cfcc93fceeac62986d9bfcf594ace943108c47eaeababe16866b"
+    },
+    "federation-osx-x64.zip": {
+      "size": 38145019,
+      "sha256": "d631849c47063077457a602f6fdb9e64798cb5592b8dedd7f0123cd713212002"
+    },
+    "federation-relay-linux-arm64.zip": {
+      "size": 42875729,
+      "sha256": "e42bee05d7e3fdc83d370b3aade82c238a98c3f88f3c0650c3bf91650e465b29"
+    },
+    "federation-relay-linux-x64.zip": {
+      "size": 44595846,
+      "sha256": "301389e38d7b4f61c105310946d2ba414dc49ade0e557e384bce9d785bfcf48f"
+    },
+    "federation-relay-osx-arm64.zip": {
+      "size": 42608965,
+      "sha256": "6069d2d9b44abbf0100e0d7c7a9515ab6545aacedae1c6a3f27b43920f431f19"
+    },
+    "federation-relay-osx-x64.zip": {
+      "size": 44927713,
+      "sha256": "c566555274d41bb9c7433e9e8397e361d80ce06c734bf1923d6e427af1a673fb"
+    },
+    "federation-relay-win-arm64.zip": {
+      "size": 43930113,
+      "sha256": "080f7c3cf5e66f289fb2fa88b80aedec07a7ed1750486bfa3e68a64567b45587"
+    },
+    "federation-relay-win-x64.zip": {
+      "size": 45409047,
+      "sha256": "68453428d36f1c10bb10da68993991ab30b39a2c60bbddc8358449e0402c3773"
+    },
+    "federation-win-arm64.zip": {
+      "size": 37203983,
+      "sha256": "e4c198cccd63f12bde62804301dbb22c25bfaeb14245731ce5d6649a2821a130"
+    },
+    "federation-win-x64.zip": {
+      "size": 38276060,
+      "sha256": "7d9c785df7ff9e40d8bab757868ce9721de9038e3c5857b93c5615ad45a38ce4"
+    }
+  }
+},
+"signatures": [
+  {
+    "keyId": "DFAB3BB6F657C091",
+    "sig": "KkGLZzdyWhrNtOXjp42u/qE0DEZI2ZadPz0tnk1GD02Gd3j4hNBX3NpoxR/7Mo\u002BbYxsMv7Y6AeJ/rGc2fvyjXQ=="
+  }
+]
+}
