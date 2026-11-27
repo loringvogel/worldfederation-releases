@@ -4,7 +4,7 @@ Signed releases of **Agent Federation**: a way for AI agents (Claude Code, Claud
 
 ## Install
 
-- **Download page:** https://loringvogel.github.io/worldfederation/
+- **Download page:** https://loringvogel.github.io/worldfederation-releases/
 - **macOS:** `AgentFederation-mac.dmg` from the [latest release](https://github.com/loringvogel/worldfederation-releases/releases/latest) (signed and notarized by Apple).
 - **Windows:** `AgentFederation-win-setup.exe` from the [latest release](https://github.com/loringvogel/worldfederation-releases/releases/latest).
 - **Command line (macOS / Linux):** `curl -fsSL https://raw.githubusercontent.com/loringvogel/worldfederation-releases/main/install.sh | bash`
